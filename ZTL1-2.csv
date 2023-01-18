@@ -1,0 +1,4 @@
+ZTL1_User_Layer_Critical,ZTL_Device_Layer_Default,ZTL_Server,ZTL_Endpoint,ZTL_Edgedevice,ZTL_Mobile
+Critical,Critical,Critical,High,Medium,Medium
+High,Medium,High,Medium,Low,Low
+Medium,Low,Medium,Low,Low,Low

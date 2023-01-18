@@ -1,0 +1,4 @@
+ZTL1_User_Layer_Critical,ZTL3_Network_Default,ZTL3_Core-zone,ZTL3_Inner1,ZTL3_Inner2,ZTL3_Outer1,ZTL3_DMZ
+Critical,Low,Low,Low,Low,Low,Low
+High,Low,Low,Low,Low,Low,Low
+Medium,Low,Low,Low,Low,Low,Low

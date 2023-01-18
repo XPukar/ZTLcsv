@@ -1,0 +1,4 @@
+ZTL1 User Layer Critical,ZTL5 Application Default,ZTL5 Mission Critical Application,ZTL5 Business Critical Application,ZTL5 Back Office Apps,ZTL5 Customer facing Apps
+Critical,Critical,Critical,Critical,High,Critical
+High,Medium,High,High,Medium,High
+Medium,Low,Medium,Medium,Low,Medium
