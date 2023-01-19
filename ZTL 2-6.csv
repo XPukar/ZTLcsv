@@ -1,0 +1,4 @@
+ZTL2 Device Layer,ZTL6 Data Layer Default,Identity Data,Customer/Employee data,Business Critical Data,SOC Data
+Critical,Low,Low,Low,Low,Low
+High,Low,Low,Low,Low,Low
+Medium,Low,Low,Low,Low,Low

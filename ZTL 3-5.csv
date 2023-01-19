@@ -1,0 +1,4 @@
+ZTL3 Network Layer,ZTL5 Application Layer Default,Mission Critical Application,Business Critical Application,Back Office Apps,Customer facing Apps
+Critical,Critical,Critical,Critical,High,Critical
+High,Medium,High,High,Medium,High
+Medium,Low,Medium,Medium,Low,Medium

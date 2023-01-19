@@ -1,0 +1,4 @@
+ZTL2 Device Layer,ZTL5 Application Default,Mission Critical Application,Business Critical Application,Back Office Apps,Customer facing Apps
+Critical,Low,Low,Low,Low,Low
+High,Low,Low,Low,Low,Low
+Medium,Low,Low,Low,Low,Low

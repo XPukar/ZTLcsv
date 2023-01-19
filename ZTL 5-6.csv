@@ -1,0 +1,4 @@
+ZTL5 Application Layer,ZTL6 Data Layer Default,Identity Data,Customer/Employee data,Business Critical Data,SOC Data
+Critical,Critical,Critical,Critical,Critical,Critical
+High,Medium,Critical,Critical,Critical,Critical
+Medium,Low,High,High,Medium,Critical

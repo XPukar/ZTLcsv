@@ -1,0 +1,4 @@
+ZTL4 Infrastructure Layer,ZTL3 Network Layer Default,Core-zone,Inner1,Inner2,Outer1,DMZ
+Critical,Critical,Critical,High,High,Medium,High
+High,Medium,High,Medium,Medium,Low,Medium
+Medium,Low,Medium,Low,Low,Low,Low
